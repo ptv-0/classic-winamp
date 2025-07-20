@@ -1,0 +1,28 @@
+<theme>
+	<formatVersion>7</formatVersion>
+	<view name="detailed, video">
+		<image name="md_marquee">
+			<visible>false</visible>
+		</image>
+		<text name="md_description">
+			<origin>0.5 1</origin>
+			<pos>0.735 0.88125</pos>
+			<size>0.3814462465 0.165</size>
+			<zIndex>999</zIndex>
+			<fontSize>0.025</fontSize>
+			<color>00F400</color>
+			<fontPath>./_art/fonts/Arimo-Regular.ttf</fontPath>
+			<backgroundColor>000000</backgroundColor>
+		</text>
+	</view>
+	<view name="detailed">
+		<image name="md_image">
+			<maxSize>0.3814462465 0.308</maxSize>
+		</image>
+	</view>
+	<view name="video">
+		<video name="md_video">
+			<maxSize>0.3814462465 0.308</maxSize>
+		</video>
+	</view>
+</theme>
